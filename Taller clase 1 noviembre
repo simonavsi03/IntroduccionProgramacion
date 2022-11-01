@@ -1,0 +1,18 @@
+paises = ["japon", "guatemala", "españistan", "corea del norte", "kurdistan"]
+print(paises)
+print(sorted(paises))
+paises.sort(reverse=True)
+print("alfabetico alrevez: ",  paises)
+print(paises)
+paises.reverse()
+print(paises)
+print(paises)
+paises.reverse()
+print(paises)
+
+print(paises)
+paises.sort()
+print(paises)
+paises.sort(reverse=True)
+print(paises)
+
